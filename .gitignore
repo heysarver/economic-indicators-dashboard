@@ -1,0 +1,11 @@
+.cache/
+.local
+__pycache__/
+*.pyc
+.upm/
+.pythonlibs/
+.config/
+venv/
+.venv/
+VENV/
+ENV/
